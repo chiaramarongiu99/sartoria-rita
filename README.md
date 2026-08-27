@@ -1,4 +1,4 @@
-# Merri Rita - sito sartoria
+# Atelier Rita - sito sartoria
 
 Starter statico pronto per GitHub Pages. Include Home editoriale, catalogo filtrabile, scheda capo e viewer 360 gradi.
 
@@ -32,11 +32,11 @@ Il sito sarà disponibile all'indirizzo mostrato da GitHub Pages.
 ```bash
 git init
 git add .
-git commit -m "Initial Merri Rita website"
+git commit -m "Initial Atelier Rita website"
 git branch -M main
 git remote add origin URL_DEL_REPOSITORY
 git push -u origin main
 ```
 
 ## Copyright
-Le immagini provvisorie presenti nel pacchetto sono state generate per questo prototipo. Sostituiscile con fotografie originali di Merri Rita prima della pubblicazione definitiva.
+Le immagini provvisorie presenti nel pacchetto sono state generate per questo prototipo. Sostituiscile con fotografie originali di Atelier Rita prima della pubblicazione definitiva.
